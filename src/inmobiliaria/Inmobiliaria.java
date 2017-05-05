@@ -18,6 +18,7 @@ public class Inmobiliaria {
         // TODO code application logic here
         //Prueba
         System.out.println("Hola");
+        //segunda prueba
     }
     
 }
